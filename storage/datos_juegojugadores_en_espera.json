@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "a",
+        "turno": 1,
+        "intentos": 2
+    },
+    {
+        "nombre": "a",
+        "turno": 2,
+        "intentos": 2
+    },
+    {
+        "nombre": "a",
+        "turno": 3,
+        "intentos": 2
+    }
+]
